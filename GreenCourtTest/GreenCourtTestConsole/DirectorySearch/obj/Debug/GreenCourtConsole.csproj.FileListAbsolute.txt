@@ -1,0 +1,6 @@
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\bin\Debug\DirectorySearch.exe.config
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\bin\Debug\DirectorySearch.exe
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\bin\Debug\DirectorySearch.pdb
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\obj\Debug\GreenCourtConsole.csprojResolveAssemblyReference.cache
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\obj\Debug\DirectorySearch.exe
+C:\Users\Did\Documents\Visual Studio 2015\Projects\GreenCourtTestConsole\DirectorySearch\obj\Debug\DirectorySearch.pdb
